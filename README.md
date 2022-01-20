@@ -12,3 +12,8 @@
 - Cas pratique : implémenter un algorithme de recommandation de film en
 python avec le dataset movies.csv : https://drive.google.com/drive/folders/1GCWcIvE3ZipWiV8567CswTNUaNzce3sT?usp=sharing 
 
+Dataset : [movies.csv](https://github.com/Mohamed-Khalil67/NLP/files/7905378/movies.csv)
+
+* Question 1 : importer Pandas, Numpy, CountVectorizer() et cosine_similarity() et le dataset
+
+
