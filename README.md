@@ -14,6 +14,6 @@ python avec le dataset movies.csv : https://drive.google.com/drive/folders/1GCWc
 
 Dataset : [movies.csv](https://github.com/Mohamed-Khalil67/NLP/files/7905378/movies.csv)
 
-* Question 1 : importer Pandas, Numpy, CountVectorizer() et cosine_similarity() et le dataset
-
+* spacy = ndustrial-Strength Natural Language Processing ,  https://spacy.io/
+* 
 
